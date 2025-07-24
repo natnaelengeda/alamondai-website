@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://alamondai.com
+
+# Sitemaps
+Sitemap: https://alamondai.com/sitemap.xml
